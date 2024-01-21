@@ -1,3 +1,5 @@
 # seiral-input-test
 
-A simple dmonstration on obtaining and hanlling inout from the Serial Terminal to Arduino.
+A simple Demonstration on obtaining and handling input from the Serial Terminal to Arduino.
+
+Created using the [Platformio](https://platformio.org/) Developement tools using vscode.
